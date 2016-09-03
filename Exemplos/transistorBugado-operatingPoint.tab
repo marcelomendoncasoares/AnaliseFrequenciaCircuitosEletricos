@@ -1,0 +1,26 @@
+Ponto de operação encontrado após 2 iterações.
+Solução da análise nodal:
+
+	 1: -2.0000e+000
+	 2: -1.0000e+001
+	 3: -2.0000e+000
+	 4: -5.0000e-001
+jV0001:  0.0000e+000
+jV0002: -1.1000e-004
+jV0003:  0.0000e+000
+jV0004: -7.5375e-005
+
+Parâmetros dos transistores:
+
+M10: PMOS invertido saturado
+ Vt = 1.0000e+000	Id = -1.1000e-004
+ Vgs = -2.0000e+000	Vds = -1.0000e+001	Vbs = 0.0000e+000
+ Gm = 2.2000e-004	Gds = 1.0000e-006	Gmb = 4.2603e-005
+ Cgs = 7.6667e-015	Cgd = 1.0000e-015	Cgb = 0.0000e+000
+
+M11: PMOS invertido triodo
+ Vt = 1.0000e+000	Id = -7.5375e-005
+ Vgs = -2.0000e+000	Vds = -5.0000e-001	Vbs = 0.0000e+000
+ Gm = 1.0050e-004	Gds = 1.0125e-004	Gmb = 1.9462e-005
+ Cgs = 6.0000e-015	Cgd = 6.0000e-015	Cgb = 0.0000e+000
+
